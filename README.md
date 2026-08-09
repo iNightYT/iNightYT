@@ -129,7 +129,7 @@ The platform provides role-based functionality for players and coaches and combi
 | **Performance** | Modern Next.js application architecture |
 | **Security** | Authentication · Role-based access · Row Level Security |
 | **Impact** | Centralized club management and player information |
-| **Repository** | [GitHub](https://github.com/iNightYT) |
+| **Repository** | [GitHub](https://github.com/amparonunez/Proyecto-Grupo-03-Capstone-801D) |
 
 ### Engineering Scope
 
@@ -164,7 +164,7 @@ The application combines Ionic and Angular with Capacitor to access native mobil
 | **Performance** | Native device capabilities through Capacitor |
 | **Security** | Authentication · Route Guards · Role-based navigation |
 | **Impact** | Digitalized classroom attendance workflows |
-| **Repository** | [GitHub](https://github.com/iNightYT) |
+| **Repository** | [GitHub](https://github.com/iNightYT/RegistAPP) |
 
 ### Engineering Scope
 
@@ -199,7 +199,7 @@ The application integrates frontend interfaces with PHP backend functionality an
 | **Performance** | Lightweight web architecture |
 | **Security** | Authentication · Session management · Backend validation |
 | **Impact** | Digital commerce and product management workflow |
-| **Repository** | [GitHub](https://github.com/iNightYT) |
+| **Repository** | [GitHub](https://github.com/iNightYT/Ferremas) |
 
 ### Engineering Scope
 
