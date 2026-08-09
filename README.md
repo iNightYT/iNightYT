@@ -1,7 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <!--                         iNightYT • PROFILE README                       -->
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -11,25 +9,25 @@
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full+Stack+Developer;Mobile+%26+Web+Application+Builder;AI-Assisted+Software+Engineering;Building+Scalable+Digital+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Information+Technology+Engineer;Recently+Graduated+Software+Engineer;Full+Stack+Developer;Web+%26+Mobile+Application+Developer;AI-Assisted+Software+Engineering;Building+Digital+Products" alt="Typing SVG"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Ingeniería%20en%20Informática-Duoc%20UC-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Information%20Technology%20Engineer-Duoc%20UC-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Development-4338CA?style=for-the-badge&logo=stackshare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Chile-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
-<a href="https://naito-places.vercel.app/">
+<a href="https://inightyt.github.io/portafolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:contact@inightyt.dev">
+<a href="mailto:gmartinezbahamondes@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/iNightYT">
@@ -48,24 +46,27 @@
 
 ## About
 
-I am an **Information Technology Engineering student and software developer** focused on building reliable, maintainable, and user-oriented digital products.
+I am a **recently graduated Information Technology Engineer** from Duoc UC, focused on software development, web technologies, mobile applications, and the continuous improvement of digital products.
 
-My work spans **full-stack web development, mobile applications, databases, APIs, authentication, cloud-oriented architectures, and AI-assisted development workflows**. I enjoy taking an idea from its initial architecture through implementation, integration, testing, and deployment.
+My experience covers **full-stack web development, frontend engineering, mobile application development, backend integration, databases, APIs, authentication, and deployment-oriented workflows**.
 
-I approach software development with a **product engineering mindset**: understanding the problem first, choosing appropriate technologies, designing maintainable systems, and delivering solutions that provide measurable value.
+I enjoy transforming ideas and requirements into functional software, from designing the user interface and application architecture to implementing backend logic, integrating databases and APIs, testing functionality, and deploying the final product.
 
-My current technical focus includes modern JavaScript/TypeScript ecosystems, frontend engineering, backend integration, relational databases, mobile development, and increasingly the use of **AI as an engineering productivity and problem-solving layer**.
+My current professional interests include **software engineering, full-stack development, frontend development, mobile applications, AI-assisted development, automation, and modern application architecture**.
+
+I approach development with a **product engineering mindset**, focusing not only on writing code but also on understanding the problem, selecting appropriate technologies, maintaining clean and scalable solutions, and delivering software that provides real value.
 
 ### Open To
 
-* Software Engineering opportunities
-* Full Stack / Frontend development
-* Junior Software Developer roles
-* QA / Automation opportunities
-* Web & Mobile application projects
-* AI-assisted software engineering
-* Open-source collaboration
-* Freelance and product development
+- Software Engineering opportunities
+- Junior Software Developer roles
+- Full Stack Development
+- Frontend Development
+- Mobile Application Development
+- QA & Test Automation
+- AI-assisted Software Engineering
+- Freelance & Software Projects
+- Open Source Collaboration
 
 ---
 
@@ -74,13 +75,13 @@ My current technical focus includes modern JavaScript/TypeScript ecosystems, fro
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,php,java,python,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,html,css,sql"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ionic,tailwind,sass"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ionic,tailwind,sass,bootstrap"/>
 </p>
 
 ### Backend & Databases
@@ -92,111 +93,125 @@ My current technical focus includes modern JavaScript/TypeScript ecosystems, fro
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode"/>
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-| Domain                  |   Proficiency   | Details                                                                                                         |
-| :---------------------- | :-------------: | :-------------------------------------------------------------------------------------------------------------- |
-| AI-Assisted Development |   🟣 Advanced   | Using AI tooling to accelerate implementation, debugging, documentation, refactoring and technical exploration. |
-| LLM Integration         | 🟣 Intermediate | Exploring practical integration of language models into software products and developer workflows.              |
-| Prompt Engineering      | 🟣 Intermediate | Designing structured prompts for development, analysis, automation and productivity workflows.                  |
-| AI Product Engineering  | 🟣 Intermediate | Exploring how AI capabilities can be transformed into useful product features rather than isolated experiments. |
-| Automation              | 🟣 Intermediate | Building workflows and integrations that reduce repetitive operational and development tasks.                   |
-| Machine Learning        |   🔵 Learning   | Expanding foundations in ML concepts, model usage and practical AI application development.                     |
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| AI-Assisted Development | 🟣 Advanced | Using AI tools to accelerate development, debugging, documentation, refactoring and technical problem solving. |
+| LLM Integration | 🟣 Intermediate | Exploring practical integration of language models into software applications and developer workflows. |
+| Prompt Engineering | 🟣 Intermediate | Designing structured prompts for development, analysis, automation and productivity workflows. |
+| AI Product Engineering | 🟣 Intermediate | Exploring practical ways of integrating AI capabilities into useful software products. |
+| Automation | 🟣 Intermediate | Exploring automation workflows to reduce repetitive development and operational tasks. |
+| Machine Learning | 🔵 Learning | Building foundational knowledge in machine learning concepts and practical AI applications. |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>RegistAPP — Attendance Management Mobile Application</strong></summary>
+<summary><strong>Club Mamba — Basketball Club Management Platform</strong></summary>
 
 <br>
 
-A mobile attendance-management application designed around QR-based attendance registration. The system provides differentiated student and teacher experiences, authentication, route protection, QR scanning, REST API integration, local persistence and attendance management.
+A full-stack platform developed to manage operations for a basketball club, including users, events, attendance, statistics, news and game-related information.
 
-| Category        | Details                                                       |
-| :-------------- | :------------------------------------------------------------ |
-| **Stack**       | Ionic · Angular · TypeScript · Capacitor · SQLite · REST APIs |
-| **Scale**       | Multi-role mobile application                                 |
-| **Performance** | Native device capabilities through Capacitor                  |
-| **Security**    | Authentication · Route Guards · Role-based navigation         |
-| **Impact**      | Digitalized classroom attendance workflows                    |
-| **Repository**  | [iNightYT/RegistAPP](https://github.com/iNightYT/RegistAPP)   |
+The platform provides role-based functionality for players and coaches and combines a modern React-based frontend with a PostgreSQL database through Supabase.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Next.js · React · Tailwind CSS · Supabase · PostgreSQL |
+| **Scale** | Full-stack club management platform |
+| **Performance** | Modern Next.js application architecture |
+| **Security** | Authentication · Role-based access · Row Level Security |
+| **Impact** | Centralized club management and player information |
+| **Repository** | [GitHub](https://github.com/iNightYT) |
 
 ### Engineering Scope
 
-* Designed mobile interfaces for multiple user roles.
-* Implemented authentication and protected application routes.
-* Integrated QR-code scanning through native mobile capabilities.
-* Integrated external REST services.
-* Added weather API functionality.
-* Implemented local persistence using SQLite.
-* Developed attendance and student-list management.
-* Iterated through multiple application versions and feature releases.
+- Developed responsive interfaces using Next.js and React.
+- Designed database structures using PostgreSQL.
+- Integrated Supabase authentication.
+- Implemented role-based application access.
+- Developed event and attendance management.
+- Implemented player statistics management.
+- Created news and results functionality.
+- Worked with Supabase Row Level Security.
+- Designed API routes for application functionality.
+- Implemented protected application flows for coaches and players.
 
 </details>
 
 <br>
 
 <details>
-<summary><strong>FERREMAS — E-Commerce & Platform Integration</strong></summary>
+<summary><strong>RegistrAPP — Mobile Attendance Management Application</strong></summary>
 
 <br>
 
-A web-based commerce platform developed as an integration project, combining product catalog management, shopping-cart functionality, authentication, APIs and transactional workflows.
+A mobile attendance management application designed to simplify attendance registration through QR-code scanning and digital student management.
 
-| Category        | Details                                                   |
-| :-------------- | :-------------------------------------------------------- |
-| **Stack**       | PHP · JavaScript · CSS · MySQL · REST APIs                |
-| **Scale**       | Full-stack web application                                |
-| **Performance** | Server-rendered architecture with modular frontend assets |
-| **Security**    | Authentication · Session management · Backend validation  |
-| **Impact**      | Integrated digital commerce workflow                      |
-| **Repository**  | [iNightYT/Ferremas](https://github.com/iNightYT/Ferremas) |
+The application combines Ionic and Angular with Capacitor to access native mobile capabilities.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Ionic · Angular · TypeScript · Capacitor · SQLite · REST APIs |
+| **Scale** | Multi-role mobile application |
+| **Performance** | Native device capabilities through Capacitor |
+| **Security** | Authentication · Route Guards · Role-based navigation |
+| **Impact** | Digitalized classroom attendance workflows |
+| **Repository** | [GitHub](https://github.com/iNightYT) |
 
 ### Engineering Scope
 
-* Developed dynamic product catalog functionality.
-* Implemented shopping-cart workflows.
-* Integrated application APIs.
-* Created authentication and registration flows.
-* Developed purchase and transaction-related pages.
-* Structured reusable PHP components.
-* Worked with frontend JavaScript and responsive styling.
-* Integrated multiple platform components into a unified application.
+- Developed mobile interfaces using Ionic and Angular.
+- Implemented authentication and protected routes.
+- Integrated QR-code scanning.
+- Implemented local data persistence using SQLite.
+- Integrated REST APIs.
+- Developed attendance registration functionality.
+- Created student management interfaces.
+- Implemented role-based navigation.
+- Integrated device capabilities through Capacitor.
+- Iterated on application architecture and functionality across multiple versions.
 
 </details>
 
 <br>
 
 <details>
-<summary><strong>Personal Portfolio — Web Portfolio</strong></summary>
+<summary><strong>FERREMAS — E-Commerce Web Application</strong></summary>
 
 <br>
 
-A personal web portfolio focused on presenting software development projects, technical capabilities and professional information through a lightweight frontend experience.
+A full-stack e-commerce project developed to provide an online product catalog and purchasing workflow.
 
-| Category        | Details                                                       |
-| :-------------- | :------------------------------------------------------------ |
-| **Stack**       | HTML · CSS · JavaScript                                       |
-| **Scale**       | Personal portfolio                                            |
-| **Performance** | Lightweight frontend architecture                             |
-| **Security**    | Static frontend architecture                                  |
-| **Impact**      | Professional digital presence                                 |
-| **Repository**  | [iNightYT/portafolio](https://github.com/iNightYT/portafolio) |
+The application integrates frontend interfaces with PHP backend functionality and MySQL data persistence.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | HTML · CSS · Bootstrap · JavaScript · PHP · MySQL |
+| **Scale** | Full-stack web application |
+| **Performance** | Lightweight web architecture |
+| **Security** | Authentication · Session management · Backend validation |
+| **Impact** | Digital commerce and product management workflow |
+| **Repository** | [GitHub](https://github.com/iNightYT) |
 
 ### Engineering Scope
 
-* Designed a responsive personal portfolio interface.
-* Implemented frontend interactions with JavaScript.
-* Structured reusable styling resources.
-* Added English and Spanish portfolio experiences.
-* Focused on clear presentation of technical projects and professional information.
+- Developed responsive e-commerce interfaces.
+- Implemented dynamic product catalog functionality.
+- Created shopping cart functionality.
+- Developed authentication and registration workflows.
+- Implemented backend functionality using PHP.
+- Designed and integrated MySQL databases.
+- Worked with session-based application flows.
+- Implemented transaction-oriented functionality.
+- Integrated external services into the application workflow.
 
 </details>
 
@@ -204,28 +219,22 @@ A personal web portfolio focused on presenting software development projects, te
 
 ## Experience
 
-### Software Development & Academic Projects
+### Web Developer Intern — Centro de Negocios SERCOTEC Melipilla
 
-**Software Engineering / Full Stack Development**
-**2023 — Present**
+**March 2026 — May 2026**
 
-Developing academic and personal software solutions across web, mobile and database environments, with an emphasis on practical implementation and continuous technical improvement.
+Worked as a Web Developer Intern supporting and maintaining a Django-based website hosted in a production environment.
 
 **Scope of Work**
 
-* Design and development of full-stack web applications.
-* Frontend development using modern JavaScript frameworks.
-* Mobile application development with Ionic, Angular and Capacitor.
-* Backend API integration and database-driven applications.
-* Authentication and authorization workflows.
-* Relational database design and SQL development.
-* Integration of external APIs and third-party services.
-* Application debugging, testing and iterative improvement.
-* Git-based version control and collaborative development.
-* Deployment-oriented development using modern cloud platforms.
-* Exploration of AI-assisted development and automation.
+- Maintained and updated an existing Django-based website.
+- Implemented content and functional changes according to requirements.
+- Worked with cPanel hosting environments.
+- Assisted with website maintenance and deployment-related tasks.
+- Investigated existing application structures before implementing changes.
+- Worked within an existing production-oriented web environment.
 
-`TypeScript` `JavaScript` `Angular` `React` `Next.js` `Ionic` `PHP` `SQL` `Supabase` `Git` `REST APIs`
+`Django` `Python` `HTML` `CSS` `cPanel` `Web Development`
 
 ---
 
@@ -233,13 +242,14 @@ Developing academic and personal software solutions across web, mobile and datab
 
 <div align="center">
 
-| Recognition                   | Details                                                                                      |
-| :---------------------------- | :------------------------------------------------------------------------------------------- |
-| 🎓 **Engineering Education**  | Information Technology Engineering studies with a focus on software development and systems. |
-| 📱 **Mobile Development**     | Designed and implemented a QR-based attendance management application.                       |
-| 🌐 **Full Stack Development** | Built integrated web applications combining frontend, backend, databases and APIs.           |
-| 🧩 **System Integration**     | Worked with REST APIs, external services, authentication and database persistence.           |
-| 🚀 **Product Mindset**        | Focused on turning technical requirements into usable digital products.                      |
+| Recognition | Details |
+|:---|:---|
+| 🎓 **Information Technology Engineer** | Recently graduated from Duoc UC after completing the Information Technology Engineering program. |
+| 📱 **Mobile Development** | Designed and developed RegistrAPP, a mobile attendance management application using Ionic and Angular. |
+| 🌐 **Full Stack Development** | Built multiple applications combining frontend, backend, databases and APIs. |
+| 🏀 **Product Development** | Developed Club Mamba, a full-stack platform for basketball club management. |
+| 🧩 **System Integration** | Worked with REST APIs, authentication, databases, external services and application integrations. |
+| 🏢 **Professional Experience** | Completed a Web Developer internship working with a production Django website and cPanel hosting. |
 
 </div>
 
@@ -247,21 +257,31 @@ Developing academic and personal software solutions across web, mobile and datab
 
 ## Certifications
 
-### AWS
+### SCRUMstudy
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-SCRUMstudy-6D28D9?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 
-### Oracle
+**Scrum Fundamentals Certified**
 
-<img src="https://img.shields.io/badge/Oracle-Database%20%26%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+Certification focused on the fundamental concepts, principles and practices of the Scrum framework.
 
-### NPTEL
+---
 
-<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-6D28D9?style=for-the-badge"/>
+### SoloLearn
 
-### Cisco
+<img src="https://img.shields.io/badge/Web%20Development-SoloLearn-4338CA?style=for-the-badge&logo=sololearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Cisco-Networking%20Foundations-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+**Web Development**
+
+Certification covering fundamental web development concepts and technologies.
+
+<br>
+
+<img src="https://img.shields.io/badge/Angular-SoloLearn-5B21B6?style=for-the-badge&logo=angular&logoColor=white"/>
+
+**Angular**
+
+Certification focused on Angular development concepts and application building.
 
 ---
 
@@ -299,7 +319,7 @@ Developing academic and personal software solutions across web, mobile and datab
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=iNightYT&hide_border=true&background=0D0B18&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=iNightYT&hide_border=true&background=0D0B18&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
@@ -340,7 +360,8 @@ Developing academic and personal software solutions across web, mobile and datab
 ```yaml
 profile:
   name: iNightYT
-  role: Software Engineering Student
+  role: Information Technology Engineer
+  status: Recently Graduated
   location: Chile
 
 learning:
@@ -355,7 +376,7 @@ building:
   - Full Stack Web Applications
   - Mobile Applications
   - Developer Tools
-  - AI-assisted Software Solutions
+  - AI-Assisted Software Solutions
   - Digital Products
 
 exploring:
@@ -369,6 +390,7 @@ open_to:
   - Software Engineering Opportunities
   - Full Stack Development
   - Frontend Development
+  - Mobile Development
   - QA & Automation
   - Freelance Projects
   - Open Source Collaboration
@@ -380,11 +402,11 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:contact@inightyt.dev">
+<a href="mailto:gmartinezbahamondes@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/gmartinezbahamondes/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -392,7 +414,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://naito-places.vercel.app/">
+<a href="https://inightyt.github.io/portafolio/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
